@@ -1,1 +1,2 @@
-# Full-name-Nguy-n-Kh-c-Th-i
+# Full-namm: Nguyễn Khắc Thái
+Class: KHNT2020
